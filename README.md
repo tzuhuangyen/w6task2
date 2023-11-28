@@ -10,7 +10,6 @@ Description of your project. You can briefly explain what your project is about,
 ## Installation
 
 Provide instructions on how to install your project. Include steps for different environments if necessary.
-
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/your-repository.git
@@ -21,6 +20,10 @@ cd your-repository
 # Install dependencies
 npm install
 ```
+
+
+
+
 
 Technologies
 Language: JavaScript
