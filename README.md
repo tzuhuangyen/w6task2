@@ -5,6 +5,7 @@ Description of your project. You can briefly explain what your project is about,
 ## Screenshots
 
 ![Subscription Form](<URL to your screenshot image>)
+<img width="1015" alt="Screenshot 2023-11-28 at 15 09 09" src="https://github.com/tzuhuangyen/w6task2/assets/106456140/72cbfe16-de94-4fce-997b-a0a3258d62a3">
 
 ## Installation
 
