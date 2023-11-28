@@ -1,8 +1,22 @@
-# React + Vite
+# React Subscription Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description of your project. You can briefly explain what your project is about, its purpose, and any unique features it might have.
 
-Currently, two official plugins are available:
+## Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Subscription Form](<URL to your screenshot image>)
+
+## Installation
+
+Provide instructions on how to install your project. Include steps for different environments if necessary.
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-repository.git
+
+# Change into the project directory
+cd your-repository
+
+# Install dependencies
+npm install
+
