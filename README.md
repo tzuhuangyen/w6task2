@@ -11,8 +11,6 @@ Contributing
 License
 
 ## Screenshots
-
-![Subscription Form](<URL to your screenshot image>)
 <img width="1015" alt="Screenshot 2023-11-28 at 15 09 09" src="https://github.com/tzuhuangyen/w6task2/assets/106456140/72cbfe16-de94-4fce-997b-a0a3258d62a3">
 
 ## Installation
@@ -29,7 +27,7 @@ cd your-repository
 npm install
 ```
 
-##Project Structure
+## Project Structure
 ```bash
 react-subscription-form/
   ├── src/
@@ -42,18 +40,18 @@ react-subscription-form/
   └── README.md
 ```
 
-##Features
+## Features
 Email input field with validation
 Form submission handling
 User-friendly error message display
 
-##Technologies
+## Technologies
 Language: JavaScript
 
 Framework: React
 Build Tool: Vite
 
-##Dependencies / Libraries
+## Dependencies / Libraries
 react
 vite
 
